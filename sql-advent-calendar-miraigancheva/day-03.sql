@@ -18,7 +18,6 @@
 --
 
 -- My Solution:
-
 SELECT
     prank_id,
     target_name,
