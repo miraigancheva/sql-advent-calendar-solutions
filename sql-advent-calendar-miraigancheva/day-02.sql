@@ -21,7 +21,6 @@
 --
 
 -- My Solution:
-
 SELECT DISTINCT p.toy_id, p.toy_name
 FROM toy_production p
 JOIN toy_delivery d
