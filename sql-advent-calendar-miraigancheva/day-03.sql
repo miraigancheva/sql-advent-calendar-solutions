@@ -13,11 +13,11 @@
 --   prank_id: INTEGER
 --   target_name: VARCHAR
 --   prank_description: VARCHAR
---   evilness_score: INTEGER
+--   evilness_score: INTEGER 
 --   created_at: TIMESTAMP
 --
 
--- My Solution:
+-- My Solution on this problem:
 
 SELECT
     prank_id,
