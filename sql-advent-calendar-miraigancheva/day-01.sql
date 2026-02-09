@@ -17,7 +17,6 @@
 --
 
 -- My Solution:
-
 SELECT
     name,
     rank
