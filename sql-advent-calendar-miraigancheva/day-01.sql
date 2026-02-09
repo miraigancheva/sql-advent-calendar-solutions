@@ -16,7 +16,7 @@
 --   color: VARCHAR
 --
 
--- My Solution:
+-- My Solution on this project:
 SELECT
     name,
     rank
